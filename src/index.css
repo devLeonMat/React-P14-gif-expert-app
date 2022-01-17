@@ -35,3 +35,7 @@ input {
 .card img {
     max-height: 170px;
 }
+
+.animate__fadeIn {
+    animation-duration: 2s;
+}
